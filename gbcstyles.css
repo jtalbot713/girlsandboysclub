@@ -1,3 +1,13 @@
 @charset "utf-8";
 /* CSS Document */
 
+body {
+	font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", "sans-serif";
+	font-size: 14px;
+	background-color: darkturquoise;
+}
+
+img {
+	height: 220px;
+	width: 300px;
+}
